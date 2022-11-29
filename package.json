@@ -1,0 +1,20 @@
+{
+  "name": "vuit",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "author": {
+    "name": "ronleeon",
+    "email": "crisacrisasas@gmail.com",
+    "url": "https://github.com/ronleeon/vuit.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vue-tsc": "^1.0.9"
+  }
+}
