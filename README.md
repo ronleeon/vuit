@@ -1,5 +1,5 @@
 # VUIT 
-an ugly ui components.
+vue ugly ui tech.
 
 ### Tech
 
